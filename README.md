@@ -1,6 +1,5 @@
-# selenium ile web scraping
-
  pip install selenium
+ 
  pip install beautifulsoup4
 
  Python 3.10
